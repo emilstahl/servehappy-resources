@@ -14,3 +14,5 @@ Tutorials on how to upgrade the PHP version on a specific hoster are organized b
 * [Portuguese](tutorials-pt.md)
 * [Spanish](tutorials-es.md)
 * [Thai](tutorials-th.md)
+* [Swedish](tutorials-sv.md)
+* [Danish](tutorials-da.md)
